@@ -8,5 +8,5 @@ node server.js
 
 如果提示缺少包，可通过 cnpm(或npm) install serve-index peer 安装
 
-启用成功后，浏览https://localhost:81/ 即可
+启用成功后，浏览https://localhost:12345/ 即可
 
