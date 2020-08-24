@@ -10,3 +10,4 @@ node server.js
 
 启用成功后，浏览https://localhost:12345/ 即可
 
+作者的操作说明：https://www.cnblogs.com/yjmyzz/p/peerjs-tutorial.html
