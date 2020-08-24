@@ -70,7 +70,7 @@ window.onload = function () {
         return;
     }
 
-    let connOption = { host: 'localhost', port: 9000, path: '/', debug: 3 };
+    let connOption = { host: '192.168.2.101', port: 9000, path: '/', debug: 3 };
 
 btnRegister.onclick = function () {
     if (!peer) {

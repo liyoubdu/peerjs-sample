@@ -29,7 +29,7 @@ sendMessage = function (message) {
 window.onload = function () {
 
     //peerserver的连接选项(debug:3表示打开调试，将在浏览器的console输出详细日志)
-    let connOption = { host: 'localhost', port: 9000, path: '/', debug: 3 };
+    let connOption = { host: '192.168.2.101', port: 9000, path: '/', debug: 3 };
 
     //register处理
     btnRegister.onclick = function () {

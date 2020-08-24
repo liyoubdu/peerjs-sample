@@ -100,7 +100,7 @@ window.onload = function () {
     $("#dialog-confirm").hide();
 
     //连接到peerjs服务器的选项
-    let connOption = { host: 'localhost', port: 9000, path: '/', debug: 3 };
+    let connOption = { host: '192.168.2.101', port: 9000, path: '/', debug: 3 };
 
 //register处理
 btnRegister.onclick = function () {
